@@ -91,7 +91,7 @@ button {
   margin: auto;
   height: 300px;
   border-radius: 8px;
-  background-image: url("../images/gradient1.png"), url("../images/watch.png");
+  background-image: url("images/gradient1.png"), url("images/watch.png");
   border: 1px solid transparent;
   margin-bottom: 100px;
 }
